@@ -1,0 +1,15 @@
+{
+  "comment": "Simon Vetter",
+  "shell": "/bin/bash",
+  "uid": 7001,
+  "gid": 4003,
+  "github": "simonvetter",
+  "groups": [
+    "sudo",
+    "filez"
+  ],
+  "id": "simon",
+  "ssh_keys": [
+    "ssh-dss AAAAB3NzaC1kc3MAAACBALW21y0vpG+clyh8TDAPXQ9MD5I6tjAojteznat9gP9p2Dnhz8xcWKn9bEgeHdbgfKfpZo1eqc6I8eF6kNil5eU3jmKszbFkc45eGENaM/ChQrsJjxGSedpVlZuo3xPDwOMIp6W+PbLuHdAafXebRHIIOJbbFmgnx87Pdmx7lgDpAAAAFQD3Ar9qGZ3Ju606gDvi4DW5v9UgswAAAIEAkLNY+HfbB+hzdzGqtPWHDMpn8uzyaYQH1aCKU9++8NBl9rsLu85nzdho9BMe92sKOhbcM2EDSV9xW3QukxuhmBKePkFZ/LB7WC1ubkkMq+KccTrQEo4hKVJKpbSY6LEmSWuqmOGpqk8H2qJnVloAo1TxlI4rhrs/ejrVE4tPJFEAAACAcc7nSkTGxbHbtLTbRcHRy6cXo0rGZ7f+MuEHovW9B3M7R2E5jSHlD8CilKlh7R16781GjxTlpsHIfh9ysN0o1kFAifLE2YQOrHaqAWVT6kyLAk3oGerdzlZyUzyeO3mxxZCvkCX+cJKgbG2H2g9dLqG28KkntBIgQvBijAMMrwg= simon@spaceship"
+  ]
+}

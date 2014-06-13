@@ -1,0 +1,6 @@
+{
+  "name": "prod",
+  "json_class": "Chef::Environment",
+  "description": "Production env, try not to break it.",
+  "chef_type": "environment"
+}

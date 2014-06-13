@@ -1,0 +1,19 @@
+{
+  "name": "chef-parser",
+  "version": "0.0.1",
+  "description": "A simple chef repo parser.",
+  "main": "lib/chef_parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chef",
+    "parser"
+  ],
+  "author": "Simon Vetter <simon.vetter@runbox.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "logmagic": "^0.1.4"
+  }
+}

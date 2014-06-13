@@ -1,0 +1,32 @@
+{
+  "json_class": "Chef::Node",
+  "chef_environment": "dev",
+  "normal": {
+    "runit": {
+      "service_dir": "/etc/service",
+      "chpst_bin": "/usr/bin/chpst",
+      "sv_bin": "/usr/bin/sv",
+      "sv_dir": "/etc/sv"
+    },
+    "tags": [
+    ],
+    "network": {
+      "interfaces": {
+        "eth0": {
+          "addresses": {
+          },
+          "status": "auto"
+        }
+      }
+    },
+    "packages": {
+      "nodejs": "0.10.28",
+      "racoon": "latest"
+    }
+  },
+  "name": "dev-web02",
+  "run_list": [
+    "role[users::sysadmins]",
+    "recipe[network]"
+  ]
+}
